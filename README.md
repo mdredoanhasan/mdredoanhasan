@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdredoanhasan/mdredoanhasan/main/assets/github cover photo.png" alt="Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Redoan Hasan</h1>
 <h3 align="center">Aspiring full stack developer from Bangladesh</h3>
 
