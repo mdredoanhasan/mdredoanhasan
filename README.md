@@ -1,27 +1,22 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mdredoanhasan/mdredoanhasan/main/assets/github cover photo.png" alt="Banner" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Redoan Hasan</h1>
 <h3 align="center">Aspiring full stack developer from Bangladesh</h3>
 
+### 🚀 About Me
+I'm a passionate student learning full-stack web development. I started with HTML, CSS, Tailwind, JavaScript and TypeScript, and now I'm diving deeper into React to build modern, scalable web applications. I love turning ideas into real projects and constantly improving my skills through hands-on practice.
+
 - 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [mdredoanhasan](mdredoanhasan)
-
 - 📫 How to reach me **redoanhasan02@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/share/1bwp88jury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bwp88jury/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mdredoan_hasan?igsi=bwrtcg94y2zhczj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdredoan_hasan?igsi=bwrtcg94y2zhczj1" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdredoanhasan&show_icons=true&locale=en&layout=compact" alt="mdredoanhasan" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdredoanhasan&show_icons=true&locale=en" alt="mdredoanhasan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdredoanhasan&" alt="mdredoanhasan" /></p>
